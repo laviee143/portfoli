@@ -8,6 +8,14 @@ This project focuses on clean layout, readability, and responsiveness without us
 The profile card displays personal information, a short bio, social links, and a contact form.
 It is suitable for beginner portfolios, university assignments, or personal landing pages.
 
+## UI
+
+<img width="1920" height="1116" alt="image" src="https://github.com/user-attachments/assets/c96f3c58-4750-45a5-b52b-d5ea44e67d1f" />
+
+<img width="406" height="820" alt="image" src="https://github.com/user-attachments/assets/767b1c3f-4306-4a82-9beb-9301bc0bede5" />
+
+
+
 ## Main Highlights
 
 * Single-column layout that works on all screen sizes
@@ -15,6 +23,7 @@ It is suitable for beginner portfolios, university assignments, or personal land
 * Simple contact form with basic validation
 * No external JavaScript libraries
 * Easy to customize and extend
+* Responsive UI
 
 ## Built With
 
